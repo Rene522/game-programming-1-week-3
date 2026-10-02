@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mdonne301\\Documents\\GitHub\\game-programming-1-week-3\\games programming week 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D8423-1720-4170-A37B-BFF3E92D9DE8}|games programming week 3.vcxproj|C:\\Users\\mdonne301\\Documents\\GitHub\\game-programming-1-week-3\\games programming week 3\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A46D8423-1720-4170-A37B-BFF3E92D9DE8}|games programming week 3.vcxproj|solutionrelative:Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D8423-1720-4170-A37B-BFF3E92D9DE8}|games programming week 3.vcxproj|C:\\Users\\mdonne301\\Documents\\GitHub\\game-programming-1-week-3\\games programming week 3\\Ground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A46D8423-1720-4170-A37B-BFF3E92D9DE8}|games programming week 3.vcxproj|solutionrelative:Ground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ground.cpp",
+              "DocumentMoniker": "C:\\Users\\mdonne301\\Documents\\GitHub\\game-programming-1-week-3\\games programming week 3\\Ground.cpp",
+              "RelativeDocumentMoniker": "Ground.cpp",
+              "ToolTip": "C:\\Users\\mdonne301\\Documents\\GitHub\\game-programming-1-week-3\\games programming week 3\\Ground.cpp",
+              "RelativeToolTip": "Ground.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-02T12:32:40.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\Users\\mdonne301\\Documents\\GitHub\\game-programming-1-week-3\\games programming week 3\\Window.cpp",
+              "RelativeDocumentMoniker": "Window.cpp",
+              "ToolTip": "C:\\Users\\mdonne301\\Documents\\GitHub\\game-programming-1-week-3\\games programming week 3\\Window.cpp",
+              "RelativeToolTip": "Window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-02T12:32:33.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

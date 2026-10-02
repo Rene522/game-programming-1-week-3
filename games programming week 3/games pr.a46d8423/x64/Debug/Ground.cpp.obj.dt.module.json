@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "games pr.a46d8423\\x64\\Debug\\Ground.obj",
+            "outputs": [
+                "games pr.a46d8423\\x64\\Debug\\Ground.cpp.obj.dt.module.json",
+                "games pr.a46d8423\\x64\\Debug\\Ground.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
